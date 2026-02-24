@@ -24,4 +24,5 @@ to identify trends, accident severity, causes, and high-risk regions.
 - Road Safety Analysis
 - Academic Projects
 
-  
+## 👩‍💻 Author
+Shriyanka Bhardwaj 
